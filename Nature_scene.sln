@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nature_scene.CSharp", "Nature_scene.CSharp.csproj", "{93090D74-B685-5D7E-A42A-BD9C1E381CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nature_scene.CSharp.Editor", "Nature_scene.CSharp.Editor.csproj", "{9194155D-B230-4DC6-0EC7-7E7AE712CFB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93090D74-B685-5D7E-A42A-BD9C1E381CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93090D74-B685-5D7E-A42A-BD9C1E381CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93090D74-B685-5D7E-A42A-BD9C1E381CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93090D74-B685-5D7E-A42A-BD9C1E381CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9194155D-B230-4DC6-0EC7-7E7AE712CFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9194155D-B230-4DC6-0EC7-7E7AE712CFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9194155D-B230-4DC6-0EC7-7E7AE712CFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9194155D-B230-4DC6-0EC7-7E7AE712CFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
